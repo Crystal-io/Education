@@ -1,4 +1,4 @@
-# Email Deliverability — Production Domain Configuration
+# Email Deliverability — Production Domain Configuration 
 
 ## Context
 - Stage: **Production / Fully Warmed Domains**
