@@ -1,4 +1,4 @@
-# Email Deliverability Incident Playbook  
+# Email Deliverability Incident Playbook   
 ## Subdomain Overheating (Reputation Degradation)
 
 ### Context
