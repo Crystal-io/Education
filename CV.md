@@ -1,9 +1,7 @@
 # Michael Kuvshynov  
 **Senior Business / System Analyst**
 
-📍 Limassol, Cyprus  
 📧 m.kuvshynov@gmail.com  
-📞 +357 99041617  
 🔗 linkedin.com/in/kuvshynov  
 🔗 github.com/Crystal-io  
 
