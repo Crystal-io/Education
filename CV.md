@@ -11,13 +11,13 @@
 
 ## SUMMARY
 
-Senior Business / System Analyst with 8+ years of experience in consulting, FinTech, and high-load platforms, specialising in translating complex business challenges into scalable technical solutions.
+Senior Business / System Analyst specialising in consulting, FinTech, and high-load platforms, with a strong focus on translating complex business challenges into scalable, data-driven solutions.
 
-Experienced in bridging business and technology, working closely with stakeholders, engineers, and data teams to design and deliver impactful solutions.
+Experienced in bridging business and technology, working closely with stakeholders, engineers, and data teams to design, validate, and deliver impactful solutions in cross-functional environments.
 
-Recently focused on applying AI/LLM tools (ChatGPT, Claude Code) to enhance business analysis workflows, automate requirements structuring, and support data-driven decision-making.
+Actively applying AI/LLM tools (ChatGPT, Claude Code) to enhance business analysis workflows, automate requirements structuring, and support decision-making through structured insights.
 
-Strong background in system analysis, integrations, and process optimisation, with a growing focus on AI-driven solution design and discovery.
+Strong background in system analysis, integrations, and process optimisation, combined with a growing focus on AI-driven solution discovery, feasibility assessment, and business value alignment.
 
 ---
 
